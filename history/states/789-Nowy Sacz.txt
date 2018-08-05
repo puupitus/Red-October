@@ -1,0 +1,19 @@
+
+state={
+	id=789
+	name="STATE_789"
+
+	history={
+		buildings = {
+
+		}
+
+	}
+
+	provinces={
+		417 466 3410 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
