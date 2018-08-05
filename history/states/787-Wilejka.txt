@@ -1,0 +1,19 @@
+
+state={
+	id=787
+	name="STATE_787"
+
+	history={
+		buildings = {
+
+		}
+
+	}
+
+	provinces={
+		233 277 358 406 6340 9341 11342 11391 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
