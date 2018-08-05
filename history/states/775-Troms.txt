@@ -1,10 +1,9 @@
 
 state={
-	id=766
-	name="STATE_766"
+	id=775
+	name="STATE_775"
 
 	history={
-
 		buildings = {
 
 		}
@@ -12,7 +11,7 @@ state={
 	}
 
 	provinces={
-	  11076
+		44 91 3058 3082 3145 6130 11050 11090 11157 
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
