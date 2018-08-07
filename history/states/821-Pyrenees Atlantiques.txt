@@ -3,7 +3,7 @@ state={
 	id=821
 	name="STATE_821"
 	provinces={
-		743 9882 9884 11697 11697 
+		743 9882 9884 11697 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
