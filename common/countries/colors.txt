@@ -1,5 +1,6 @@
-#reload countrycolors
 
+
+#reload countrycolors
 ADE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 AFG = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 AHV = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -13,13 +14,12 @@ ARG = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ARM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ASI = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ASS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-AUS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 AST = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+AUS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 AZR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BAH = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BAR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BAS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-BEI = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BEL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BGU = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BHU = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -34,8 +34,10 @@ BUK = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BUL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BUR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 BZE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+CAM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 CAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 CAR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+CHI = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 CHL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 CLA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 COG = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -79,6 +81,7 @@ FWA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GAL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GAM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GCO = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+GEO = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GER = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GIL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GMJ = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -116,10 +119,11 @@ KIR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 KOR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 KUB = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 KUW = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+LAO = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LAT = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+LBA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LEB = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LEE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-LBA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LIB = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LIE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 LIT = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -153,6 +157,7 @@ OBE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ODE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 OMA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAK = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+PAL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAP = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -172,7 +177,6 @@ ROM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 RUA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 RUS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 SAA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-SAC = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 SAF = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 SAL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 SAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -204,7 +208,6 @@ TAJ = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TAR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TAT = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-TCS = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TGA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TIA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 TIB = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -230,7 +233,9 @@ WIN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 WPT = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 XSM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 YEM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+YUG = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 YUN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ZAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ZAP = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ZHI = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+ZIM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
