@@ -1,9 +1,9 @@
 
 
 #reload countrycolors
-ADE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-AFG = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-AHV = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+ADE = { color = rgb { 191 159 145 } color_ui = rgb { 191 159 145 } }
+AFG = { color = rgb { 000 075 000 } color_ui = rgb { 000 075 000 } }
+AHV = { color = rgb { 211 172 084 } color_ui = rgb { 211 172 084 } }
 ALA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ALB = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ALE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
@@ -75,14 +75,14 @@ FEA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 FGU = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 FIN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 FIU = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-FRA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+FRA = { color = rgb { 057 113 228 } color_ui = rgb { 057 113 228 } }
 FSR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 FWA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GAL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GAM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GCO = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GEO = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-GER = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+GER = { color = rgb { 090 090 090 } color_ui = rgb { 090 090 090 } }
 GIL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GMJ = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 GND = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
