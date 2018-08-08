@@ -171,7 +171,6 @@ PRC = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PRU = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PSR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PUE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
-QIN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 RAJ = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ROM = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 RUA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
