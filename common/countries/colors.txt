@@ -152,6 +152,7 @@ NZL = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 OBE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ODE = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 OMA = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+PAK = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAN = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAP = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 PAR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
