@@ -1,0 +1,37 @@
+bookmarks = {
+	bookmark = {
+		name = "RO_NAME"
+		desc = "RO_DESC"
+		date = 1917.1.10.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+
+		"GER"={
+			history = "GER_RO_DESC"
+			ideology = authoritarianism
+			ideas = {	}
+			focuses = { }
+		}
+
+	  "---"={
+			history = "OTHER_RO_DESC"
+		}
+		"FIN"={
+			minor = yes
+			history = "FIN_RO_DESC"
+			ideology = liberalism
+			ideas = {	}
+			focuses = { }
+		}
+
+
+
+
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

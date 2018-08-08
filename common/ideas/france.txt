@@ -1,0 +1,47 @@
+ideas = {
+  country = {
+
+
+        FRA_lerp = {
+
+
+    	  allowed = {
+    	  always = no
+    	  }
+
+    	  allowed_civil_war = {
+    		always = yes
+    	  }
+
+    	  removal_cost = -1
+
+    	  picture = tfv_can_conscription_crisis
+
+    	  modifier = {
+    		conscription = 0.03
+        special_forces_attack_factor = 0.05
+        special_forces_defence_factor = 0.05
+        army_org_Factor = -0.05
+    	     }
+        }
+        FRA_dgp = {
+
+
+    	  allowed = {
+    	  always = no
+    	  }
+
+    	  allowed_civil_war = {
+    		always = yes
+    	  }
+
+    	  removal_cost = -1
+
+    	  picture = tfv_can_conscription_crisis
+
+    	  modifier = {
+    		industrial_capacity_dockyard = 0.5
+    	     }
+        }
+    }
+}
