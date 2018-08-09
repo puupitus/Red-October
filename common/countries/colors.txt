@@ -94,6 +94,7 @@ GUK = { color = rgb { 002 189 064 } color_ui = rgb { 002 189 064 } }
 GXC = { color = rgb { 129 142 158 } color_ui = rgb { 129 142 158 } }
 GZH = { color = rgb { 094 094 147 } color_ui = rgb { 094 094 147 } }
 HAI = { color = rgb { 214 091 013 } color_ui = rgb { 214 091 013 } }
+HAW = { color = rgb { 035 066 160 } color_ui = rgb { 035 066 160 } }
 HEJ = { color = rgb { 000 122 061 } color_ui = rgb { 000 122 061 } }
 HOB = { color = rgb { 206 070 070 } color_ui = rgb { 206 070 070 } }
 HOL = { color = rgb { 229 112 034 } color_ui = rgb { 229 112 034 } }
