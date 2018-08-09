@@ -284,7 +284,7 @@
  STATE_283:0 "Gansu"
  STATE_284:0 "North Island"
  STATE_285:0 "New South Wales"
- STATE_286:1 "Southern Indochina"
+ STATE_286:2 "Cochinchina"
  STATE_287:0 "Taklamakan"
  STATE_288:1 "Rangoon"
  STATE_289:1 "Central Thailand"
@@ -934,3 +934,4 @@
  STATE_933:0 "Lovech"
  STATE_934:0 "Haskovo"
  STATE_935:0 "Herzegovina"
+ STATE_936:0 "Annam"
