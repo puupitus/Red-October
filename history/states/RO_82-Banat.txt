@@ -6,19 +6,15 @@ state={
 	resources={
 		aluminium=4 # was: 6
 	}
-	
+
 	state_category = rural
 
 	history={
 		owner = ROM
-		buildings = {
-			infrastructure = 5
-			industrial_complex = 2
-		}
-		add_core_of = ROM
+		
 	}
 
 	provinces={
-		646 662 3649 9606 11592 11608 
+		646 662 3649 9606 11592 11608
 	}
 }

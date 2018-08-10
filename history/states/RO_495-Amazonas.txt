@@ -7,17 +7,11 @@ state={
 	}
 
 	history={
-		owner = BRA
-		buildings = {
-			infrastructure = 0
-
-		}
-		add_core_of = BRA
-
+		owner = BRA 
 	}
 
 	provinces={
-		1979 5232 8185 8254 10934 12919 12965 13083 
+		1979 5232 8185 8254 10934 12919 12965 13083
 	}
 	manpower=979900
 	buildings_max_level_factor=1.000

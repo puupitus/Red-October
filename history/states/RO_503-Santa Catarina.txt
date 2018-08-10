@@ -4,18 +4,11 @@ state={
 	name="STATE_503"
 
 	history={
-		owner = BRA
-		buildings = {
-			infrastructure = 5
-			air_base = 1
-
-		}
-		add_core_of = BRA
-
+		owner = BRA 
 	}
 
 	provinces={
-		1529 4548 10405 
+		1529 4548 10405
 	}
 	manpower=1922700
 	buildings_max_level_factor=1.000

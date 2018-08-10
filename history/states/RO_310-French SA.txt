@@ -10,19 +10,10 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 2
-			12885 = {
-				naval_base = 1
-			}
-		}
-		victory_points = {
-			12885 1 
-		}
+		owner = FRA 
 	}
 
 	provinces={
-		4934 12885 
+		4934 12885
 	}
 }

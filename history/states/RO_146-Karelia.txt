@@ -5,32 +5,11 @@ state={
 
 	history={
 		owner = FIN
-		add_core_of = FIN
-		victory_points = {
-			9206 3 
-		}
-		buildings = {
-			infrastructure = 5
-			industrial_complex = 2
-			9100 = {
-				bunker = 2
-
-			}
-			9105 = {
-				bunker = 2
-
-			}
-			9206 = {
-				coastal_bunker = 1
-
-			}
-
-		}
-
+		 
 	}
 
 	provinces={
-		52 139 3050 6082 6186 9100 9206 11162 
+		52 139 3050 6082 6186 9100 9206 11162
 	}
 	manpower=418635
 	buildings_max_level_factor=1.000

@@ -4,21 +4,11 @@ state={
 	name="STATE_471"
 
 	history={
-		owner = CAN
-		buildings = {
-			infrastructure = 1
-			10548 = {
-				naval_base = 1
-
-			}
-
-		}
-		add_core_of = CAN
-
+		owner = CAN 
 	}
 
 	provinces={
-		3606 7869 7891 
+		3606 7869 7891
 	}
 	manpower=27681
 	buildings_max_level_factor=1.000

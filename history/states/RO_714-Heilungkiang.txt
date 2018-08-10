@@ -4,19 +4,11 @@ state={
 	name="STATE_714"
 
 	history={
-		owner = MAN
-		add_core_of = CHI
-		add_core_of = MAN
-		add_core_of = PRC
-		buildings = {
-			infrastructure = 4
-
-		}
-
+		owner = MAN 
 	}
 
 	provinces={
-		1502 1545 1693 1732 4506 4649 4809 4876 7613 7767 7832 7848 7873 7897 10368 10379 10675 10698 12485 12548 
+		1502 1545 1693 1732 4506 4649 4809 4876 7613 7767 7832 7848 7873 7897 10368 10379 10675 10698 12485 12548
 	}
 	manpower=3694191
 	buildings_max_level_factor=1.000

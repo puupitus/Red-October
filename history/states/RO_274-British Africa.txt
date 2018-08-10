@@ -4,23 +4,11 @@ state={
 	name="STATE_274"
 
 	history={
-		owner = ENG
-		victory_points = {
-			10862 1 
-		}
-		buildings = {
-			infrastructure = 3
-			10862 = {
-				naval_base = 2
-
-			}
-
-		}
-
+		owner = ENG 
 	}
 
 	provinces={
-		8039 8096 10862 12742 12787 13136 
+		8039 8096 10862 12742 12787 13136
 	}
 	manpower=3163600
 	buildings_max_level_factor=1.000

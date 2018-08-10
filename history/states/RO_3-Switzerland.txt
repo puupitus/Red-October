@@ -8,22 +8,11 @@ state={
 
 	history={
 		owner = SWI
-		victory_points = {
-			9620 15 
-		}
-		buildings = {
-			infrastructure = 6
-			arms_factory = 4
-			industrial_complex = 4
-			air_base = 4
-
-		}
-		add_core_of = SWI
-
+		
 	}
 
 	provinces={
-		636 6683 9618 9620 9622 11590 
+		636 6683 9618 9620 9622 11590
 	}
 	manpower=2211689
 	buildings_max_level_factor=1.000

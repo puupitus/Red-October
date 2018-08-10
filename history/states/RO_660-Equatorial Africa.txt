@@ -7,16 +7,11 @@ state={
 	}
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 2
-
-		}
-
+		owner = FRA 
 	}
 
 	provinces={
-		1993 2080 5036 5054 6039 7963 8078 9137 11012 11194 12830 
+		1993 2080 5036 5054 6039 7963 8078 9137 11012 11194 12830
 	}
 	manpower=2572456
 	buildings_max_level_factor=1.000

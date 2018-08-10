@@ -9,22 +9,11 @@ state={
 
 	history={
 		owner = YUG
-		add_core_of = MNT
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			9809 = {
-				naval_base = 1
-
-			}
-
-		}
-		add_core_of = YUG
-
+		 
 	}
 
 	provinces={
-		6913 9809 9821 11858 
+		6913 9809 9821 11858
 	}
 	manpower=895500
 	buildings_max_level_factor=1.000

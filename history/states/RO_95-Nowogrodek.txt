@@ -5,18 +5,11 @@ state={
 
 	history={
 		owner = POL
-		buildings = {
-			infrastructure = 5
-			air_base = 3
-
-		}
-		add_core_of = POL
-		add_core_of = BLR
-
+		 
 	}
 
 	provinces={
-		6359 6413 9236 9304 9359 11341 
+		6359 6413 9236 9304 9359 11341
 	}
 	manpower=1157200
 	buildings_max_level_factor=1.000

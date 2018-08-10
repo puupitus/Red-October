@@ -6,16 +6,10 @@ state={
 	state_category = small_island
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 3
-			13072 = {
-				naval_base = 1
-			}
-		}
+		owner = FRA 
 	}
 
 	provinces={
-		13072 
+		13072
 	}
 }

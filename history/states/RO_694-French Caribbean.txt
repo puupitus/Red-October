@@ -6,20 +6,10 @@ state={
 	state_category = rural
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 4
-			air_base = 1
-			177 = {
-				naval_base = 3
-			}
-			9377 = {
-				naval_base = 1
-			}
-		}
+		owner = FRA 
 	}
-	
+
 	provinces={
-		177 9377 13084 
+		177 9377 13084
 	}
 }

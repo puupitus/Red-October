@@ -4,17 +4,11 @@ state={
 	name="STATE_456"
 
 	history={
-		owner = ENG
-		buildings = {
-			infrastructure = 4
-
-		}
-		add_core_of = EGY
-
+		owner = ENG 
 	}
 
 	provinces={
-		1028 1064 1206 10844 11999 12771 
+		1028 1064 1206 10844 11999 12771
 	}
 	manpower=4224516
 	buildings_max_level_factor=1.000

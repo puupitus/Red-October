@@ -8,25 +8,11 @@ state={
 
 	history={
 		owner = ITA
-		victory_points = {
-			6606 3 
-		}
-		buildings = {
-			infrastructure = 7
-			industrial_complex = 1
-			air_base = 2
-			782 = {
-				naval_base = 2
-
-			}
-
-		}
-		add_core_of = ITA
-
+		 
 	}
 
 	provinces={
-		782 6793 9924 
+		782 6793 9924
 	}
 	manpower=3202401
 	buildings_max_level_factor=1.000

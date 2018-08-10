@@ -4,17 +4,11 @@ state={
 	name="STATE_680"
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 2
-
-		}
-		add_core_of = SYR
-
+		owner = FRA 
 	}
 
 	provinces={
-		1088 10087 
+		1088 10087
 	}
 	manpower=324110
 	buildings_max_level_factor=1.000

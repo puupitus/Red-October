@@ -4,37 +4,11 @@ state={
 	name="STATE_613"
 
 	history={
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
-		buildings = {
-			infrastructure = 5
-			industrial_complex = 1
-			air_base = 6
-			dockyard = 1
-			7014 = {
-				naval_base = 6
-				coastal_bunker = 1
-				bunker = 1
-
-			}
-
-		}
-		victory_points = {
-			11913 20 
-		}
-		victory_points = {
-			7014 10 
-		}
-		1938.10.25 = {
-			controller = JAP
-
-		}
-
+		owner = CHI 
 	}
 
 	provinces={
-		7014 10034 10076 12052 12076 13142 
+		7014 10034 10076 12052 12076 13142
 	}
 	manpower=17305100
 	buildings_max_level_factor=1.000

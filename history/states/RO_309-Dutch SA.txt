@@ -6,22 +6,15 @@ state={
 
 	resources={
 		aluminium=55 # was: 104
-	}	
-	
+	}
+
 	state_category = rural
 
 	history={
-		owner = HOL
-		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
-			12828 = {
-				naval_base = 1
-			}
-		}
+		owner = HOL 
 	}
 
 	provinces={
-		1928 10906 12828 
+		1928 10906 12828
 	}
 }

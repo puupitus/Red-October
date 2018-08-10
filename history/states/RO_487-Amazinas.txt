@@ -4,18 +4,11 @@ state={
 	name="STATE_487"
 
 	history={
-		owner = BOL
-		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-
-		}
-		add_core_of = BOL
-
+		owner = BOL 
 	}
 
 	provinces={
-		2160 10924 10982 12902 12916 12973 
+		2160 10924 10982 12902 12916 12973
 	}
 	manpower=334500
 	buildings_max_level_factor=1.000

@@ -4,16 +4,11 @@ state={
 	name="STATE_460"
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 4
-
-		}
-
+		owner = FRA 
 	}
 
 	provinces={
-		1058 1141 1160 4046 7065 7081 7166 9976 10059 10078 11953 12034 12051 13077 
+		1058 1141 1160 4046 7065 7081 7166 9976 10059 10078 11953 12034 12051 13077
 	}
 	manpower=2343837
 	buildings_max_level_factor=1.000

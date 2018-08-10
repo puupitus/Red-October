@@ -4,23 +4,11 @@ state={
 	name="STATE_306"
 
 	history={
-		owner = COL
-		buildings = {
-			infrastructure = 3
-			arms_factory = 1
-			industrial_complex = 5
-			air_base = 2
-
-		}
-		add_core_of = COL
-		victory_points = {
-			10747 10
-		}
-
+		owner = COL 
 	}
 
 	provinces={
-		2023 2079 7936 7991 7993 10747 10790 10846 
+		2023 2079 7936 7991 7993 10747 10790 10846
 	}
 	manpower=4953049
 	buildings_max_level_factor=1.000
