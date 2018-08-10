@@ -4,11 +4,11 @@ state={
 	name="STATE_585"
 
 	history={
-		owner = SOV 
+		owner = BUK
 	}
 
 	provinces={
-		1554 1623 1721 4499 4629 7682 7775 10470 12161
+		1554 1623 4499 4629 7682 7775 10470 12161
 	}
 	manpower=1033721
 	buildings_max_level_factor=1.000

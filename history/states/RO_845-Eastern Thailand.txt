@@ -3,8 +3,11 @@ state={
 	id=845
 	name="STATE_845"
 	provinces={
-		1244 4433 7225 7292 10293 12224 
+		1244 4433 7225 7292 10293 12224
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = SIA
+	}
 }

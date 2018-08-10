@@ -3,8 +3,11 @@ state={
 	id=836
 	name="STATE_836"
 	provinces={
-		1208 2117 4216 4396 7387 7443 8091 10269 10285 12283 12905 
+		1208 2117 4216 4396 7387 7443 8091 10269 10285 12283 12905
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = SAR
+	}
 }

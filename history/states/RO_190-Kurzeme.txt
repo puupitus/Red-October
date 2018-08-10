@@ -4,8 +4,9 @@ state={
 	name="STATE_190"
 
 	history={
-		owner = LAT
-		 
+		owner = RUS
+		controller = OBE
+
 	}
 
 	provinces={

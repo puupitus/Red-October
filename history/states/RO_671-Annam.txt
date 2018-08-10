@@ -7,8 +7,8 @@ state={
 		tungsten=27.000
 	}
 
-	history={ 
-		owner = FRA
+	history={
+		owner = TON
 	}
 
 	provinces={

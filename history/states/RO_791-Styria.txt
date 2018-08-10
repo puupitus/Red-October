@@ -3,17 +3,13 @@ state={
 	id=791
 	name="STATE_791"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		596 653 665 3654 6672 6687 6690 6691 9596 9646 9648 9650 9661 9679 11630 
+		596 653 665 3654 6672 6687 6690 6691 9596 9646 9648 9650 9661 9679 11630
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = AUS
+	}
 }

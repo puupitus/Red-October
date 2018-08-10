@@ -3,8 +3,12 @@ state={
 	id=864
 	name="STATE_864"
 	provinces={
-		9962 
+		9962
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = TGA
+		controller = COG
+	}
 }

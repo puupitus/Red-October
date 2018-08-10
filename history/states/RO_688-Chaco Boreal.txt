@@ -11,10 +11,10 @@ state={
 	}
 
 	history={
-		owner = PAR 
+		owner = BOL
 	}
 
 	provinces={
-		2195 2209 5165 8203 10973
+		2195 5165 8203 10973
 	}
 }

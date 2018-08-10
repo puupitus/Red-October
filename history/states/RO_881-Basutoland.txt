@@ -2,8 +2,11 @@ state={
 	id=881
 	name="STATE_881"
 	provinces={
-		4556 
+		4556
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = BAS
+	}
 }

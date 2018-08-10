@@ -3,8 +3,11 @@ state={
 	id=890
 	name="STATE_890"
 	provinces={
-		992 1068 3996 4055 7117 7144 7216 10031 
+		992 1068 3996 4055 7117 7144 7216 10031
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = EGY
+	}
 }

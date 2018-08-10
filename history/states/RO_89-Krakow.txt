@@ -6,8 +6,8 @@ state={
 	state_category = town
 
 	history={
-		owner = POL
-		 
+		owner = AUS
+
 	}
 
 	provinces={

@@ -9,7 +9,7 @@ state={
 
 	history=
 	{
-		owner = SHX  
+		owner = CHI  
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

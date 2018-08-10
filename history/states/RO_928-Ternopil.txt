@@ -3,8 +3,11 @@ state={
 	id=928
 	name="STATE_928"
 	provinces={
-		438 3483 3562 11427 
+		438 3483 3562 11427
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = AUS
+	}
 }

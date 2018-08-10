@@ -6,9 +6,10 @@ state={
 		steel=3.000
 	}
 
+
 	history={
 		owner = YUG
-		 
+		controller = AUS
 	}
 
 	provinces={

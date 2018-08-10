@@ -3,8 +3,11 @@ state={
 	id=842
 	name="STATE_842"
 	provinces={
-		1253 1488 1990 4496 7492 7531 7675 8045 10371 
+		1253 1488 1990 4496 7492 7531 7675 8045 10371
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = SIA
+	}
 }

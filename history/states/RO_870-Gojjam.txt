@@ -3,8 +3,11 @@ state={
 	id=870
 	name="STATE_870"
 	provinces={
-		4954 
+		4954
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ETH
+	}
 }

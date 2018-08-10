@@ -10,8 +10,8 @@ state= {
 
 	history=
 	{
-		owner = ENG
-		 
+		owner = CYP
+
 	}
 	provinces= { 7193 11984 }
 }

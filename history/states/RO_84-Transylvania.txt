@@ -10,8 +10,8 @@ state={
 	state_category = town
 
 	history={
-		owner = ROM
-		 
+		owner = AUS
+
 	}
 
 	provinces={

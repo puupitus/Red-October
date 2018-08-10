@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PRC 
+		owner = CHI 
 	}
 
 	provinces={

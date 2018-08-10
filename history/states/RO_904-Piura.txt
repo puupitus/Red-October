@@ -2,8 +2,11 @@ state={
 	id=904
 	name="STATE_904"
 	provinces={
-		2156 
+		2156
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = PRU 
+	}
 }

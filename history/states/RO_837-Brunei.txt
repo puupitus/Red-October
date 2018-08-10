@@ -2,8 +2,11 @@ state={
 	id=837
 	name="STATE_837"
 	provinces={
-		7371 
+		7371
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = BRU
+	}
 }

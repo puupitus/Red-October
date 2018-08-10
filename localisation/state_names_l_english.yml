@@ -507,7 +507,7 @@
  STATE_506:0 "Antofagasta"
  STATE_507:0 "Magallanes"
  STATE_508:1 "Noroeste Argentino"
- STATE_509:0 "Chaco Austral"
+ STATE_509:0 "Gran Chaco"
  STATE_510:0 "Mesopotamia"
  STATE_511:1 "Cuyo"
  STATE_512:0 "Patagonia"
@@ -936,3 +936,4 @@
  STATE_935:0 "Herzegovina"
  STATE_936:0 "Annam"
  STATE_937:0 "Kirin"
+ STATE_938:0 "Chaco Austral"

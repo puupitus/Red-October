@@ -3,17 +3,13 @@ state={
 	id=772
 	name="STATE_772"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		118 3062 3100 3113 6024 6083 6132 6161 9093 9143 9220 11067 11201 
+		118 3062 3100 3113 6024 6083 6132 6161 9093 9143 9220 11067 11201
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = SWE
+	}
 }

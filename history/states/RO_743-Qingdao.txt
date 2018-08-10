@@ -8,7 +8,8 @@ state=
 
 	history=
 	{
-		owner = CHI 
+		owner = GER
+		controller = JAP
 	}
 	provinces={
 		10000

@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = POL
-		 
+		owner = AUS
+
 	}
 
 	provinces={

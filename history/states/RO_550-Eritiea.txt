@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = ITA 
+		owner = ERI 
 	}
 	provinces={
 		5017 5047 5091 8043 12723 12766

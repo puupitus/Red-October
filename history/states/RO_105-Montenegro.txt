@@ -8,8 +8,9 @@ state={
 	}
 
 	history={
-		owner = YUG
-		 
+		owner = MNT
+		controller = AUS
+
 	}
 
 	provinces={

@@ -2,8 +2,11 @@ state={
 	id=907
 	name="STATE_907"
 	provinces={
-		2136 2158 5152 5184 11022 12942 12970 
+		2136 2158 5152 5184 11022 12942 12970
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ARG 
+	}
 }

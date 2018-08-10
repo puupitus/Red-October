@@ -6,8 +6,8 @@ state={
 		rubber=55.000
 	}
 
-	history={ 
-		owner = FRA
+	history={
+		owner = COC
 	}
 
 	provinces={

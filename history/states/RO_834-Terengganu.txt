@@ -3,8 +3,11 @@ state={
 	id=834
 	name="STATE_834"
 	provinces={
-		4355 12199 
+		4355 12199
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = MAL
+	}
 }

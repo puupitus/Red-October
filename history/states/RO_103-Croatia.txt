@@ -4,8 +4,8 @@ state={
 	name="STATE_103"
 
 	history={
-		owner = YUG
-		 
+		owner = AUS
+
 	}
 
 	provinces={

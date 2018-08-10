@@ -3,8 +3,11 @@ state={
 	id=817
 	name="STATE_817"
 	provinces={
-		708 6540 9666 11638 
+		708 6540 9666 11638
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = GER
+	}
 }

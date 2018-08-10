@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = BEL
-		
+		controller = GER
+
 	}
 
 	provinces={

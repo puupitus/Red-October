@@ -5,7 +5,8 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = ENG 
+		owner = GER
+		controller = AUS
 	}
 
 	provinces={

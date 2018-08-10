@@ -7,7 +7,8 @@ state={
 	state_category = rural
 
 	history={
-		owner = PER 
+		owner = PER
+		controller = RUS
 	}
 
 	provinces={

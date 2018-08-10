@@ -3,7 +3,8 @@ state={
 	name="STATE_737"
 
 	history={
-		owner = AST 
+		owner = NGA
+		controller = AUS 
 	}
 
 	provinces={

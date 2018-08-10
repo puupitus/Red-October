@@ -3,17 +3,13 @@ state={
 	id=798
 	name="STATE_798"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		925 967 9838 
+		925 967 9838
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = ITA
+	}
 }

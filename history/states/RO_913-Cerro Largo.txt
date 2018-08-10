@@ -3,8 +3,11 @@ state={
 	id=913
 	name="STATE_913"
 	provinces={
-		1641 12481 
+		1641 12481
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = URG
+	}
 }

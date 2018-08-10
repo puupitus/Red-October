@@ -5,8 +5,8 @@ state=
 	manpower = 241621
 	state_category = small_island
 	history= {
-		owner = ENG
-		 
+		owner = MTA
+
 	}
 	provinces= { 12003 }
 }

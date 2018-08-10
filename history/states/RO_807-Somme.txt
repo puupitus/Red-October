@@ -3,17 +3,13 @@ state={
 	id=807
 	name="STATE_807"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		454 3402 6585 9561 11420 11549 
+		454 3402 6585 9561 11420 11549
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = FRA
+	}
 }

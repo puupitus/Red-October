@@ -10,8 +10,8 @@ state={
 	}
 
 	history={
-		owner = FRA
-		
+		owner = GER
+
 	}
 
 	provinces={

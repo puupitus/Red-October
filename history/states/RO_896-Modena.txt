@@ -3,8 +3,11 @@ state={
 	id=896
 	name="STATE_896"
 	provinces={
-		6606 6985 
+		6606 6985
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ITA
+	}
 }

@@ -2,8 +2,11 @@ state={
 	id=930
 	name="STATE_930"
 	provinces={
-		2009 12856 
+		2009 12856
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ETH
+	}
 }

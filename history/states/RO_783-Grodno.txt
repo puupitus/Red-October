@@ -3,17 +3,14 @@ state={
 	id=783
 	name="STATE_783"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		318 347 400 3254 3281 3366 3393 9274 
+		318 347 400 3254 3281 3366 3393 9274
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = RUS
+		controller = OBE
+	}
 }

@@ -8,9 +8,11 @@ state=
 	state_category = rural
 
 	history = {
-		owner = LIT
-		 
+		owner = RUS
+		controller = OBE
+
 	}
+
 	provinces={
 		3288
 	}

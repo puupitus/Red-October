@@ -20,6 +20,7 @@ AZR = { color = rgb { 000 152 195 } color_ui = rgb { 000 152 195 } }
 BAH = { color = rgb { 150 203 220 } color_ui = rgb { 150 203 220 } }
 BAS = { color = rgb { 007 113 058 } color_ui = rgb { 007 113 058 } }
 BEL = { color = rgb { 196 174 051 } color_ui = rgb { 196 174 051 } }
+BER = { color = rgb { 196 025 025 } color_ui = rgb { 196 025 025 } }
 BGU = { color = rgb { 176 204 243 } color_ui = rgb { 176 204 243 } }
 BHU = { color = rgb { 255 077 010 } color_ui = rgb { 255 077 010 } }
 BLR = { color = rgb { 234 234 234 } color_ui = rgb { 234 234 234 } }

@@ -4,7 +4,7 @@ state={
 	name="STATE_598"
 
 	history={
-		owner = CHI 
+		owner = ZHI 
 	}
 
 	provinces={

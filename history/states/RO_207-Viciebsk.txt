@@ -7,8 +7,9 @@ state={
 	state_category = town
 
 	history={
-		owner = SOV
-		 
+		owner = RUS
+		controller = OBE
+
 	}
 
 	provinces={

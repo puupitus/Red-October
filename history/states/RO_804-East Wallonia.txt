@@ -3,17 +3,14 @@ state={
 	id=804
 	name="STATE_804"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
-		3488 6537 9418 9444 11407 
+		3488 6537 9418 9444 11407
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = BEL
+		controller = GER
+	}
 }

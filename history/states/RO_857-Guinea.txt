@@ -3,8 +3,11 @@ state={
 	id=857
 	name="STATE_857"
 	provinces={
-		1909 4957 5039 8008 12802 12858 
+		1909 4957 5039 8008 12802 12858
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = FWA
+	}
 }

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = MAN 
+		owner = RUS 
 	}
 
 	provinces={

@@ -3,8 +3,11 @@ state={
 	id=878
 	name="STATE_878"
 	provinces={
-		2255 12908 12986 
+		2255 12908 12986
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = NYA
+	}
 }

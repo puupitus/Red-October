@@ -9,7 +9,7 @@ state=
 	history=
 	{
 		owner = ROM
-
+		controller = AUS
 	}
 	provinces=
 	{

@@ -9,7 +9,7 @@ state={
 
 	history={
 		owner = YUG
-		 
+		controller = BUL
 	}
 
 	provinces={

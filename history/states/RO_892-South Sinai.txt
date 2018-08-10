@@ -3,8 +3,11 @@ state={
 	id=892
 	name="STATE_892"
 	provinces={
-		1112 10099 12073 
+		1112 10099 12073
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = EGY
+	}
 }

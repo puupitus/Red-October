@@ -6,7 +6,8 @@ state=
 	manpower=21657
 	history=
 	{
-		owner = JAP 
+		owner = GER
+		controller = JAP
 	}
 	provinces={
 		3995 13023 13024

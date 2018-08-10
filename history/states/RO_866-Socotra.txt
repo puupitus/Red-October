@@ -2,8 +2,11 @@ state={
 	id=866
 	name="STATE_866"
 	provinces={
-		8000 
+		8000
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ADE
+	}
 }

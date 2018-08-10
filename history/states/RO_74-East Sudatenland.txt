@@ -4,7 +4,7 @@ state={
 	name="STATE_74"
 
 	history={
-		owner = CZE
+		owner = AUS
 		
 	}
 

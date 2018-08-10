@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = SAF 
+		owner = TRA
+		controller = SAF
 	}
 
 	provinces={

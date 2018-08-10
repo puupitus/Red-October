@@ -3,17 +3,13 @@ state={
 	id=763
 	name="STATE_763"
 
-	history={
-		buildings = {
-
-		}
-
-	}
-
 	provinces={
 		32 169 3009 3083 3117 6066 9094 9194 13101
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = FIN
+	}
 }

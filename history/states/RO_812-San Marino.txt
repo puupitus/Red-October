@@ -3,17 +3,15 @@ state={
 	id=812
 	name="STATE_812"
 
-	history={
-		buildings = {
-
-		}
-
-	}
 
 	provinces={
-		11861 
+		11861
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
+	history={
+		owner = SAN
+	}
+
 }

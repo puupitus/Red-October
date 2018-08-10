@@ -11,8 +11,9 @@ state={
 	}
 
 	history={
-		owner = LIT
-		 
+		owner = RUS
+		controller = OBE
+
 	}
 
 	provinces={

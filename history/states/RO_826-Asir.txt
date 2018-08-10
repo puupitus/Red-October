@@ -3,8 +3,11 @@ state={
 	id=826
 	name="STATE_826"
 	provinces={
-		1923 2090 5006 5037 8073 10786 12883 
+		1923 2090 5006 5037 8073 10786 12883
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = ASI
+	}
 }

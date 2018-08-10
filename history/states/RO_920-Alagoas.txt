@@ -3,8 +3,11 @@ state={
 	id=920
 	name="STATE_920"
 	provinces={
-		1524 10939 10998 
+		1524 10939 10998
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	history={
+		owner = BRA
+	}
 }
