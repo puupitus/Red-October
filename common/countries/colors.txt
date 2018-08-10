@@ -18,7 +18,6 @@ AST = { color = rgb { 032 032 193 } color_ui = rgb { 032 032 193 } }
 AUS = { color = rgb { 216 216 216 } color_ui = rgb { 216 216 216 } }
 AZR = { color = rgb { 000 152 195 } color_ui = rgb { 000 152 195 } }
 BAH = { color = rgb { 150 203 220 } color_ui = rgb { 150 203 220 } }
-BAR = { color = rgb { 052 173 201 } color_ui = rgb { 052 173 201 } }
 BAS = { color = rgb { 007 113 058 } color_ui = rgb { 007 113 058 } }
 BEL = { color = rgb { 196 174 051 } color_ui = rgb { 196 174 051 } }
 BGU = { color = rgb { 176 204 243 } color_ui = rgb { 176 204 243 } }
@@ -37,6 +36,7 @@ BZE = { color = rgb { 090 199 223 } color_ui = rgb { 090 199 223 } }
 CAM = { color = rgb { 017 055 160 } color_ui = rgb { 017 055 160 } }
 CAN = { color = rgb { 207 008 033 } color_ui = rgb { 207 008 033 } }
 CAR = { color = rgb { 234 162 028 } color_ui = rgb { 234 162 028 } }
+CEY = { color = rgb { 108 102 067 } color_ui = rgb { 108 102 067 } }
 CHI = { color = rgb { 224 177 024 } color_ui = rgb { 224 177 024 } }
 CHL = { color = rgb { 062 097 165 } color_ui = rgb { 062 097 165 } }
 CLA = { color = rgb { 035 108 163 } color_ui = rgb { 035 108 163 } }
@@ -239,6 +239,5 @@ YEM = { color = rgb { 153 100 100 } color_ui = rgb { 153 100 100 } }
 YUG = { color = rgb { 004 062 119 } color_ui = rgb { 004 062 119 } }
 YUN = { color = rgb { 163 139 092 } color_ui = rgb { 163 139 092 } }
 ZAN = { color = rgb { 163 238 062 } color_ui = rgb { 163 238 062 } }
-ZAP = { color = rgb { 204 022 058 } color_ui = rgb { 204 022 058 } }
 ZHI = { color = rgb { 175 142 033 } color_ui = rgb { 175 142 033 } }
 ZIM = { color = rgb { 057 163 206 } color_ui = rgb { 057 163 206 } }
