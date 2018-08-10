@@ -18,7 +18,7 @@ socialism = {
 		"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 0 0 0 }
+		color = { 255 0 0 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
