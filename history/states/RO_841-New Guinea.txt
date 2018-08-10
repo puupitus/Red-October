@@ -9,6 +9,6 @@ state={
 	buildings_max_level_factor=1.000
 	history={
 		owner = NGA
-		controller = AUS
+		controller = AST
 	}
 }

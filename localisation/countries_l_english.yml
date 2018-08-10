@@ -135,6 +135,23 @@
  AND_socialism:0 "Principality of Andorra"
  ########################################
  ########################################
+ ANG_authoritarianism_ADJ:0 "Angolan"
+ ANG_authoritarianism_DEF:0 "The Portuguese Angola"
+ ANG_authoritarianism:0 "Portuguese Angola"
+ ANG_conservatism_ADJ:0 "Angolan"
+ ANG_conservatism_DEF:0 "The Portuguese Angola"
+ ANG_conservatism:0 "Portuguese Angola"
+ ANG_liberalism_ADJ:0 "Angolan"
+ ANG_liberalism_DEF:0 "The Portuguese Angola"
+ ANG_liberalism:0 "Portuguese Angola"
+ ANG_social_democracy_ADJ:0 "Angolan"
+ ANG_social_democracy_DEF:0 "The Portuguese Angola"
+ ANG_social_democracy:0 "Portuguese Angola"
+ ANG_socialism_ADJ:0 "Angolan"
+ ANG_socialism_DEF:0 "The Portuguese Angola"
+ ANG_socialism:0 "Portuguese Angola"
+ ########################################
+ ########################################
  ARG_authoritarianism_ADJ:0 "Argentine"
  ARG_authoritarianism_DEF:0 "The Argentine Republic"
  ARG_authoritarianism:0 "Argentine Republic"

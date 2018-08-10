@@ -7,11 +7,12 @@ state={
 	}
 
 	history={
-		owner = ETH 
+		owner = ETH
+
 	}
 
 	provinces={
-		5010 8036 10734
+		5010 7980 8036 10734 10775 12714 
 	}
 	manpower=10000000
 	buildings_max_level_factor=1.000
