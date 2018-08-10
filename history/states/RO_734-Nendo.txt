@@ -5,7 +5,7 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = FPA 
+		owner = FPO 
 	}
 
 	buildings_max_level_factor=1.000
