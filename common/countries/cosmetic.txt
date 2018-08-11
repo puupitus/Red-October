@@ -58,7 +58,6 @@ OMA_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 PAL_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 PCV_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 PGU_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
-PHI_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 RAJ_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 SAF_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 SAH_spa = { color = rgb { 216 188 002 } color_ui = rgb { 216 188 002 } }

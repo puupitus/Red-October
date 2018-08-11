@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 327
-set_cosmetic_tag = PHI_bri
+set_cosmetic_tag = PHI_usa
 ########## IDEAS ###################
 
 

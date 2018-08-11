@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 861
-
+set_cosmetic_tag = TUA_tua
 ########## IDEAS ###################
 
 
@@ -41,7 +41,7 @@ set_politics = {
     conservatism = { popularity = 20 }
 		authoritarianism = { popularity = 20 }
 	}
-	ruling_party = conservatism
+	ruling_party = authoritarianism
 }
 
 ########### COUNTRY LEADERS ########
