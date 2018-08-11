@@ -204,6 +204,7 @@ SIK = { color = rgb { 240 240 010 } color_ui = rgb { 240 240 010 } }
 SIL = { color = rgb { 145 145 000 } color_ui = rgb { 145 145 000 } }
 SLA = { color = rgb { 121 206 227 } color_ui = rgb { 121 206 227 } }
 SLO = { color = rgb { 130 000 000 } color_ui = rgb { 130 000 000 } }
+SMO = { color = rgb { 175 015 015 } color_ui = rgb { 175 015 015 } }
 SOM = { color = rgb { 116 161 190 } color_ui = rgb { 116 161 190 } }
 SOV = { color = rgb { 255 000 000 } color_ui = rgb { 255 000 000 } }
 SPR = { color = rgb { 216 188 002 } color_ui = rgb { 216 188 002 } }

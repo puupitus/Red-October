@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 936
-
+set_cosmetic_tag = VIN_fra
 ########## IDEAS ###################
 
 

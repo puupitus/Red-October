@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 276
-
+set_cosmetic_tag = CAN_bri
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 482
-
+set_cosmetic_tag = VIL_rev
 ########## IDEAS ###################
 
 
@@ -41,7 +41,7 @@ set_politics = {
     conservatism = { popularity = 20 }
 		authoritarianism = { popularity = 20 }
 	}
-	ruling_party = conservatism
+	ruling_party = socialism
 }
 
 ########### COUNTRY LEADERS ########

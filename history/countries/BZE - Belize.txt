@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 311
-
+set_cosmetic_tag = BZE_bri
 ########## IDEAS ###################
 
 
@@ -41,7 +41,7 @@ set_politics = {
     conservatism = { popularity = 20 }
 		authoritarianism = { popularity = 20 }
 	}
-	ruling_party = conservatism
+	ruling_party = liberalism
 }
 
 ########### COUNTRY LEADERS ########

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 272
-
+set_cosmetic_tag = FWA_fra
 ########## IDEAS ###################
 
 

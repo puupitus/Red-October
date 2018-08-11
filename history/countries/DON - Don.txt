@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 218
-
+set_cosmetic_tag = DON_rus
 ########## IDEAS ###################
 
 

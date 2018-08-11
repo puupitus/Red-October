@@ -1,7 +1,7 @@
-﻿########## CAPITAL & OOB ###########
+########## CAPITAL & OOB ###########
 
-capital = 288
-set_cosmetic_tag = BUR_bri
+capital = 290
+set_cosmetic_tag = SMO_spa
 ########## IDEAS ###################
 
 

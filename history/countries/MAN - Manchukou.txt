@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 716
-
+set_cosmetic_tag = MAN_jap
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 458
-
+set_cosmetic_tag = TUN_fra
 ########## IDEAS ###################
 
 

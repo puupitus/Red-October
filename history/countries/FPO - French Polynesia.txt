@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 641
-
+set_cosmetic_tag = FPO_fra
 ########## IDEAS ###################
 
 

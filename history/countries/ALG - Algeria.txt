@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 459
-
+set_cosmetic_tag = ALG_fra
 ########## IDEAS ###################
 
 

@@ -1,14 +1,13 @@
 
 state={
-	id=859
-	name="STATE_859"
+	id=953
+	name="STATE_953"
 	provinces={
-		12785 1951 12843
+		7979 8038
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
 	history={
-		owner = TOG
-		controller = FWA
+		owner = SAH
 	}
 }

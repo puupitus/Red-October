@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 286
-
+set_cosmetic_tag = COC_fra
 ########## IDEAS ###################
 
 

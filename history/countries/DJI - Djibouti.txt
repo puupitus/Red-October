@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 268
-
+set_cosmetic_tag = DJI_fra
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 293
-
+set_cosmetic_tag = YEM_tur
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 234
-
+set_cosmetic_tag = KUB_rus
 ########## IDEAS ###################
 
 
