@@ -8,7 +8,7 @@ state={
 
 	history={
 		owner = TUR
-		controller = ENG
+		controller = PAL
 	}
 
 	provinces={

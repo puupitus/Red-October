@@ -11,7 +11,7 @@ state={
 
 	history={
 		owner = PER
-		controller = ENG
+		controller = PAL
 	}
 
 	provinces={

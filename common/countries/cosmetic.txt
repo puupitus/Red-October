@@ -55,6 +55,7 @@ NYA_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 NZL_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 OBE_ger = { color = rgb { 120 120 120 } color_ui = rgb { 120 120 120 } }
 OMA_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
+PAL_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 PCV_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 PGU_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 PHI_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }

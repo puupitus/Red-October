@@ -41,7 +41,7 @@ set_politics = {
     conservatism = { popularity = 20 }
 		authoritarianism = { popularity = 20 }
 	}
-	ruling_party = conservatism
+	ruling_party = liberalism
 }
 
 ########### COUNTRY LEADERS ########
