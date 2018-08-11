@@ -1,0 +1,16 @@
+
+state={
+	id=280
+	name="STATE_280"
+
+	history={
+		owner = BRA 
+	}
+
+	provinces={
+		2111 2142 2147 2181 2204 5148 8175 8189 10959
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

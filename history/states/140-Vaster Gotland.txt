@@ -1,0 +1,20 @@
+
+state={
+	id=140
+	name="STATE_140"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = SWE
+		 
+	}
+
+	provinces={
+		69 147 171 295 383 3286 3375 3386 6028 6310 6331 6406 9138 11070 13096
+	}
+	manpower=1282827
+	buildings_max_level_factor=1.000
+	state_category=city
+}

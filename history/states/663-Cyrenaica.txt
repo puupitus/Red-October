@@ -1,0 +1,16 @@
+
+state={
+	id=663
+	name="STATE_663"
+
+	history={
+		owner = CYR 
+	}
+
+	provinces={
+		1057 1140 1994 4191 10104 10754
+	}
+	manpower=8808
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

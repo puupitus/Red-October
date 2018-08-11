@@ -1,0 +1,21 @@
+
+state={
+	id=6
+	name="STATE_6"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner = BEL
+		controller = GER
+
+	}
+
+	provinces={
+		3576 6446 6560
+	}
+	manpower=4747700
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

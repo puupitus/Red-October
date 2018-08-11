@@ -1,0 +1,22 @@
+
+state={
+	id=592
+	name="STATE_592"
+	resources={
+		tungsten=8.000
+		steel=15.000
+		chromium=3.000
+	}
+
+	history={
+		owner = GXC
+
+	}
+
+	provinces={
+		1087 1131 1187 4092 7039 7152 9963 11938 11941 12077 
+	}
+	manpower=17835200
+	buildings_max_level_factor=1.000
+	state_category=city
+}

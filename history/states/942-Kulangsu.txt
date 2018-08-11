@@ -1,0 +1,12 @@
+state={
+	id=942
+	name="STATE_942"
+	provinces={
+		7071
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = TIA
+	}
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=539
+	name="STATE_539"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = FEA 
+	}
+
+	provinces={
+		2192 5139 8207 10948
+	}
+	manpower=2564000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

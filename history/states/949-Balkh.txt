@@ -1,0 +1,13 @@
+
+state={
+	id=949
+	name="STATE_949"
+	provinces={
+		4893 7448 7584 7984 10476 10852 10896 12248 12314 12877
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = AFG
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=608
+	name="STATE_608"
+
+	history={
+		owner = CHI
+
+	}
+
+	provinces={
+		1134 9969 
+	}
+	manpower=9648400
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,18 @@
+state=
+{
+	id=100
+	name="STATE_100"
+	manpower = 115870
+
+	state_category = rural
+
+
+	history=
+	{
+		owner = ICE
+
+	}
+	provinces=
+	{
+4861 12674 12689 	}
+}

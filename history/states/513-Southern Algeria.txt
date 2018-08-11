@@ -1,0 +1,16 @@
+
+state={
+	id=513
+	name="STATE_513"
+
+	history={
+		owner = ALG 
+	}
+
+	provinces={
+		1126 1901 1967 2049 9960
+	}
+	manpower=811486
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

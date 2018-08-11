@@ -1,0 +1,17 @@
+state=
+{
+	id=164
+	name="STATE_164"
+	manpower = 120000
+
+	state_category = small_island
+
+	history=
+	{
+		owner = ITA
+		 
+	}
+	provinces=
+	{
+7003 10007 	}
+}

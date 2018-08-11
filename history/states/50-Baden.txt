@@ -1,0 +1,20 @@
+
+state={
+	id=50
+	name="STATE_50"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = GER
+		
+	}
+
+	provinces={
+		519 3690 6555 9517 9545 9655 11486 11499
+	}
+	manpower=5086854
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

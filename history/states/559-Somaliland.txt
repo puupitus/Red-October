@@ -1,0 +1,16 @@
+
+state={
+	id=559
+	name="STATE_559"
+
+	history={
+		owner = SOM 
+	}
+
+	provinces={
+		2063 8164 10928 12991
+	}
+	manpower=1028895
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

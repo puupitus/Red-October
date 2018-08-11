@@ -1,0 +1,20 @@
+
+state={
+	id=28
+	name="STATE_28" # Alsace-Lorraine
+	manpower = 1915600
+
+	state_category = city
+	resources={
+		steel=100 # was: 236
+	}
+
+	history={
+		owner = GER
+
+	}
+
+	provinces={
+		549 678 1346 3629 6529 9503 9559 11502
+	}
+}

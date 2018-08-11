@@ -1,0 +1,21 @@
+
+state={
+	id=290
+	name="STATE_290"
+	manpower = 744000
+
+
+	state_category = rural
+
+	resources={
+		steel=15 # was: 20
+	}
+
+	history={
+		owner = SPR 
+	}
+
+	provinces={
+		4199 7215 9945 10113 12087 12100
+	}
+}

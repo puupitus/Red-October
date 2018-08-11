@@ -1,0 +1,13 @@
+
+state={
+	id=950
+	name="STATE_950"
+	provinces={
+		1919 1216 1384 10671 7639 1573 9605 1632 756 12722 12239 10205
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = BUK
+	}
+}

@@ -1,0 +1,17 @@
+
+state={
+	id=212
+	name="STATE_212"
+
+	history={
+		owner = BUL
+		 
+	}
+
+	provinces={
+		3937 6982 11813
+	}
+	manpower=2611100
+	buildings_max_level_factor=1.000
+	state_category=city
+}

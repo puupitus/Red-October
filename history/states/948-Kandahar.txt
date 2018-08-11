@@ -1,0 +1,12 @@
+state={
+	id=948
+	name="STATE_948"
+	provinces={
+		4949 5020 5064 8090 10789
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	history={
+		owner = AFG
+	}
+}

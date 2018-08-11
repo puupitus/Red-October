@@ -1,0 +1,17 @@
+
+state={
+	id=633
+	name="STATE_633"
+	manpower=52517
+
+	state_category = small_island
+
+	history={
+		owner = GER
+		controller = JAP
+	}
+
+	provinces={
+		1002 13039 13040 13041 13042 13043 13044 13045 13046
+	}
+}

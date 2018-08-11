@@ -1,0 +1,16 @@
+
+state={
+	id=494
+	name="STATE_494"
+
+	history={
+		owner = PRU 
+	}
+
+	provinces={
+		2212 2226 5166 8160
+	}
+	manpower=735826
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

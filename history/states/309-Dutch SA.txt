@@ -1,0 +1,20 @@
+
+state={
+	id=309
+	name="STATE_309"
+	manpower = 152000
+
+	resources={
+		aluminium=55 # was: 104
+	}
+
+	state_category = rural
+
+	history={
+		owner = SUR 
+	}
+
+	provinces={
+		1928 10906 12828
+	}
+}
