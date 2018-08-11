@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = MAL 
+		owner = STR 
 	}
 
 	provinces={
