@@ -66,7 +66,7 @@ PCV_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 PGU_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 PUE_usa = { color = rgb { 020 133 237 } color_ui = rgb { 020 133 237 } }
 RAJ_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
-RHO_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
+ZIM_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 SAF_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 SAH_spa = { color = rgb { 216 188 002 } color_ui = rgb { 216 188 002 } }
 SAR_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
