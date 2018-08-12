@@ -109,7 +109,6 @@ ING = { color = rgb { 255 196 037 } color_ui = rgb { 255 196 037 } }
 INS = { color = rgb { 240 130 055 } color_ui = rgb { 240 130 055 } }
 IRE = { color = rgb { 014 156 098 } color_ui = rgb { 014 156 098 } }
 IRQ = { color = rgb { 142 110 039 } color_ui = rgb { 142 110 039 } }
-ISR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 IST = { color = rgb { 255 255 000 } color_ui = rgb { 255 255 000 } }
 ITA = { color = rgb { 067 127 063 } color_ui = rgb { 067 127 063 } }
 JAB = { color = rgb { 248 196 032 } color_ui = rgb { 248 196 032 } }
@@ -195,7 +194,6 @@ SAN = { color = rgb { 094 183 229 } color_ui = rgb { 094 183 229 } }
 SAR = { color = rgb { 252 210 014 } color_ui = rgb { 252 210 014 } }
 SAU = { color = rgb { 000 108 053 } color_ui = rgb { 000 108 053 } }
 SAV = { color = rgb { 204 057 057 } color_ui = rgb { 204 057 057 } }
-SER = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 SGU = { color = rgb { 195 155 040 } color_ui = rgb { 195 155 040 } }
 SHX = { color = rgb { 226 188 035 } color_ui = rgb { 226 188 035 } }
 SIA = { color = rgb { 171 190 152 } color_ui = rgb { 171 190 152 } }
@@ -256,4 +254,9 @@ YUG = { color = rgb { 004 062 119 } color_ui = rgb { 004 062 119 } }
 YUN = { color = rgb { 163 139 092 } color_ui = rgb { 163 139 092 } }
 ZAN = { color = rgb { 163 238 062 } color_ui = rgb { 163 238 062 } }
 ZHI = { color = rgb { 175 142 033 } color_ui = rgb { 175 142 033 } }
+
+######### NOT USED #################
+
+ISR = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
+SER = { color = rgb { 000 111 222 } color_ui = rgb { 000 111 222 } }
 ZIM = { color = rgb { 047 163 206 } color_ui = rgb { 047 163 206 } }
