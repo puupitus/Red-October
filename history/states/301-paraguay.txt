@@ -2,16 +2,16 @@
 state={
 	id=301
 	name="STATE_301"
-	manpower = 890100
-
-	state_category = town
 
 	history={
-		owner = PAR 
+		owner = PAR
+
 	}
 
 	provinces={
-		2152 2173 2194 11023 12901
+		2152 2194 11023 12901 
 	}
-
+	manpower=890100
+	buildings_max_level_factor=1.000
+	state_category=town
 }
