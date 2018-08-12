@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 686
-
+set_cosmetic_tag = PUE_usa
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 585
-
+set_cosmetic_tag = BUK_rus
 ########## IDEAS ###################
 
 

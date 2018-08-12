@@ -1,7 +1,7 @@
 ########## CAPITAL & OOB ###########
 
 capital = 463
-
+set_cosmetic_tag = AKA_usa
 ########## IDEAS ###################
 
 

@@ -1,7 +1,7 @@
 ﻿########## CAPITAL & OOB ###########
 
 capital = 329
-
+set_cosmetic_tag = TAN_rus
 ########## IDEAS ###################
 
 
