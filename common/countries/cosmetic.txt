@@ -17,7 +17,7 @@ COC_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
 COG_bel = { color = rgb { 196 174 051 } color_ui = rgb { 196 174 051 } }
 CYP_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 DJI_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
-DON_rus = { color = rgb { 057 113 228 } color_ui = rgb { 057 113 228 } }
+DON_rus = { color = rgb { 000 125 025 } color_ui = rgb { 000 125 025 } }
 EGY_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 ERI_ita = { color = rgb { 067 127 063 } color_ui = rgb { 067 127 063 } }
 FEA_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
@@ -35,7 +35,7 @@ KAM_ger = { color = rgb { 120 120 120 } color_ui = rgb { 120 120 120 } }
 KEN_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 KOR_jap = { color = rgb { 232 219 219 } color_ui = rgb { 232 219 219 } }
 KOU_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
-KUB_rus = { color = rgb { 057 113 228 } color_ui = rgb { 057 113 228 } }
+KUB_rus = { color = rgb { 000 125 025 } color_ui = rgb { 000 125 025 } }
 KUW_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 LAO_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
 LEE_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
@@ -69,6 +69,7 @@ SMO_spa = { color = rgb { 216 188 002 } color_ui = rgb { 216 188 002 } }
 SOM_ita = { color = rgb { 067 127 063 } color_ui = rgb { 067 127 063 } }
 STP_por = { color = rgb { 000 102 000 } color_ui = rgb { 000 102 000 } }
 STR_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
+SUD_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 SUR_hol = { color = rgb { 229 112 034 } color_ui = rgb { 229 112 034 } }
 SWA_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 TAI_jap = { color = rgb { 232 219 219 } color_ui = rgb { 232 219 219 } }

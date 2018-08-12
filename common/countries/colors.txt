@@ -185,7 +185,7 @@ PUE = { color = rgb { 051 181 213 } color_ui = rgb { 051 181 213 } }
 RAJ = { color = rgb { 235 198 000 } color_ui = rgb { 235 198 000 } }
 ROM = { color = rgb { 252 210 014 } color_ui = rgb { 252 210 014 } }
 RUA = { color = rgb { 181 160 047 } color_ui = rgb { 181 160 047 } }
-RUS = { color = rgb { 057 113 228 } color_ui = rgb { 057 113 228 } }
+RUS = { color = rgb { 000 125 025 } color_ui = rgb { 000 125 025 } }
 SAA = { color = rgb { 000 032 159 } color_ui = rgb { 000 032 159 } }
 SAF = { color = rgb { 208 012 039 } color_ui = rgb { 208 012 039 } }
 SAH = { color = rgb { 175 175 050 } color_ui = rgb { 175 175 050 } }

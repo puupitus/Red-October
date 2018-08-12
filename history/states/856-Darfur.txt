@@ -9,6 +9,6 @@ state={
 
 	history={
 		owner = DAR
-		controller = EGY
+		controller = SUD
 	}
 }
