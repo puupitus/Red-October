@@ -62,6 +62,7 @@ DKR = { color = rgb { 221 000 000 } color_ui = rgb { 221 000 000 } }
 DOM = { color = rgb { 000 041 098 } color_ui = rgb { 000 041 098 } }
 DON = { color = rgb { 247 198 000 } color_ui = rgb { 247 198 000 } }
 DRU = { color = rgb { 211 211 074 } color_ui = rgb { 211 211 074 } }
+DWI = { color = rgb { 111 111 174 } color_ui = rgb { 111 111 174 } }
 ECU = { color = rgb { 063 095 145 } color_ui = rgb { 063 095 145 } }
 EGY = { color = rgb { 196 172 054 } color_ui = rgb { 196 172 054 } }
 ELS = { color = rgb { 015 071 175 } color_ui = rgb { 015 071 175 } }

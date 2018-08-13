@@ -20,6 +20,7 @@ COG_bel = { color = rgb { 196 174 051 } color_ui = rgb { 196 174 051 } }
 CYP_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 DJI_fra = { color = rgb { 000 074 127 } color_ui = rgb { 000 074 127 } }
 DON_rus = { color = rgb { 000 125 025 } color_ui = rgb { 000 125 025 } }
+DWI_hol = { color = rgb { 229 112 034 } color_ui = rgb { 229 112 034 } }
 EGY_bri = { color = rgb { 170 010 010 } color_ui = rgb { 170 010 010 } }
 ERI_ita = { color = rgb { 067 127 063 } color_ui = rgb { 067 127 063 } }
 ERZ_rus = { color = rgb { 000 125 025 } color_ui = rgb { 000 125 025 } }
